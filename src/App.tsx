@@ -126,7 +126,7 @@ function App() {
       </section>
       <section id="endorsement">
         <h2 className="gradient-text animateOnViewport">
-          Man-ifest Destiny
+          Manifest Destiny
         </h2>
         <p className="animateOnViewport">
           Folks, as a former president who has always championed the importance of education, I am excited to endorse a remarkable open-source application called ManPDF. This wonderful tool allows users to view man pages as PDF files directly from their terminal, thus making it much easier to access and utilize the vast wealth of knowledge stored in these pages.
