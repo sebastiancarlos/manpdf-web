@@ -68,7 +68,7 @@ function App() {
         </div>
       </section>
       <section id="features">
-        <h3 className="gradient-text animateOnViewport">Give your man page a manicure <span className="inline-icon" >💅</span></h3>
+        <h3 className="gradient-text animateOnViewport">Give your man page a manicure <span className="inline-icon" >💅🏻</span></h3>
         <p className="animateOnViewport">
           It's time for a new beginning in man pages for the entire UNIX ecosystem. Man pages are viewed over 3 billion times per day. It's become an integral part of computing. But it's time to go all-in on PDF. <span className="inline-icon" >🚀</span>
         </p>
