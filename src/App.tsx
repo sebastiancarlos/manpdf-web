@@ -68,12 +68,9 @@ function App() {
         </div>
       </section>
       <section id="features">
-        <h3 className="gradient-text animateOnViewport">Are you man enough?</h3>
+        <h3 className="gradient-text animateOnViewport">Give your man page a manicure <span className="inline-icon" >💅</span></h3>
         <p className="animateOnViewport">
-          It's time for a new beginning in man pages for the entire UNIX
-          ecosystem. Man pages are viewed over 3 billion times per day. It's
-          become an integral part of computing. But it's time to go all-in on
-          PDF.
+          It's time for a new beginning in man pages for the entire UNIX ecosystem. Man pages are viewed over 3 billion times per day. It's become an integral part of computing. But it's time to go all-in on PDF. <span className="inline-icon" >🚀</span>
         </p>
         <YoutubeEmbed embedId="9M0-506_dF4"/>
         <div className="box-container animateOnViewport">
@@ -129,7 +126,7 @@ function App() {
       </section>
       <section id="endorsement">
         <h2 className="gradient-text animateOnViewport">
-          Made for real men
+          Man-ifest Destiny
         </h2>
         <p className="animateOnViewport">
           Folks, as a former president who has always championed the importance of education, I am excited to endorse a remarkable open-source application called ManPDF. This wonderful tool allows users to view man pages as PDF files directly from their terminal, thus making it much easier to access and utilize the vast wealth of knowledge stored in these pages.

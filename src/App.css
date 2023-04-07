@@ -127,6 +127,10 @@ h3 {
   color: transparent;
 }
 
+.inline-icon {
+  color: initial;
+}
+
 @media (max-width: 768px) {
   h2 {
     font-size: 3em;
